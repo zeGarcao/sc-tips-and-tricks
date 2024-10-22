@@ -1,4 +1,4 @@
-# Tips & Tricks - Modulo Bias
+# Modulo Bias
 
 Did you know that the modulo operation can sometimes be biased? It’s important to consider this when using it to upper bound a random number, as it can produce a biased distribution. Let's break it down.
 
